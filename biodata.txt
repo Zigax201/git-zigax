@@ -8,3 +8,4 @@
 - Mifa : Cappucino
 - Status : Trainee
 - Relationship : Taken
+- Zodiac : Leo
