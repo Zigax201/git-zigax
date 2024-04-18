@@ -1,0 +1,10 @@
+- Nama : Alvan Dwi Akbar Al Amien
+- NampangL: Alvan / Alvin / Van
+- TTL: Banyuwangi, 26 July 2000
+- Domisili Asal: Pontianak
+- Domisili: Jakarta
+- Jenis Kelamin : Laki
+- Mafa : Sate
+- Mifa : Cappucino
+- Status : Trainee
+- Relationship : Taken
